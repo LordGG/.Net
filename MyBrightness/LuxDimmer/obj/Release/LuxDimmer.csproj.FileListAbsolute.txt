@@ -1,0 +1,15 @@
+D:\Projets\MyBrightness\LuxDimmer\obj\Release\Manager.g.cs
+D:\Projets\MyBrightness\LuxDimmer\obj\Release\Overlay.g.cs
+D:\Projets\MyBrightness\LuxDimmer\obj\Release\App.g.cs
+D:\Projets\MyBrightness\LuxDimmer\obj\Release\Manager.baml
+D:\Projets\MyBrightness\LuxDimmer\obj\Release\Overlay.baml
+D:\Projets\MyBrightness\LuxDimmer\obj\Release\LuxDimmer.Properties.Resources.resources
+D:\Projets\MyBrightness\LuxDimmer\obj\Release\LuxDimmer.csproj.GenerateResource.Cache
+D:\Projets\MyBrightness\LuxDimmer\bin\Release\LuxDimmer.exe.config
+D:\Projets\MyBrightness\LuxDimmer\bin\Release\LuxDimmer.exe
+D:\Projets\MyBrightness\LuxDimmer\bin\Release\LuxDimmer.pdb
+D:\Projets\MyBrightness\LuxDimmer\obj\Release\LuxDimmer_MarkupCompile.cache
+D:\Projets\MyBrightness\LuxDimmer\obj\Release\LuxDimmer_MarkupCompile.lref
+D:\Projets\MyBrightness\LuxDimmer\obj\Release\LuxDimmer.g.resources
+D:\Projets\MyBrightness\LuxDimmer\obj\Release\LuxDimmer.exe
+D:\Projets\MyBrightness\LuxDimmer\obj\Release\LuxDimmer.pdb
